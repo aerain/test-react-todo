@@ -1,14 +1,14 @@
 {
-  "main.css": "/test-react-todo/static/css/main.4f85db23.chunk.css",
-  "main.js": "/test-react-todo/static/js/main.3383f579.chunk.js",
-  "main.js.map": "/test-react-todo/static/js/main.3383f579.chunk.js.map",
-  "static/js/1.0cd6058f.chunk.js": "/test-react-todo/static/js/1.0cd6058f.chunk.js",
-  "static/js/1.0cd6058f.chunk.js.map": "/test-react-todo/static/js/1.0cd6058f.chunk.js.map",
-  "runtime~main.js": "/test-react-todo/static/js/runtime~main.42e9a573.js",
-  "runtime~main.js.map": "/test-react-todo/static/js/runtime~main.42e9a573.js.map",
-  "static/media/logo.svg": "/test-react-todo/static/media/logo.5d5d9eef.svg",
-  "static/css/main.4f85db23.chunk.css.map": "/test-react-todo/static/css/main.4f85db23.chunk.css.map",
-  "index.html": "/test-react-todo/index.html",
-  "precache-manifest.f1269d260e113e0e7b4db919aebfa3e8.js": "/test-react-todo/precache-manifest.f1269d260e113e0e7b4db919aebfa3e8.js",
-  "service-worker.js": "/test-react-todo/service-worker.js"
+  "main.css": "/aerain/test-react-todo/static/css/main.4f85db23.chunk.css",
+  "main.js": "/aerain/test-react-todo/static/js/main.c4e99b34.chunk.js",
+  "main.js.map": "/aerain/test-react-todo/static/js/main.c4e99b34.chunk.js.map",
+  "static/js/1.0cd6058f.chunk.js": "/aerain/test-react-todo/static/js/1.0cd6058f.chunk.js",
+  "static/js/1.0cd6058f.chunk.js.map": "/aerain/test-react-todo/static/js/1.0cd6058f.chunk.js.map",
+  "runtime~main.js": "/aerain/test-react-todo/static/js/runtime~main.e9a31486.js",
+  "runtime~main.js.map": "/aerain/test-react-todo/static/js/runtime~main.e9a31486.js.map",
+  "static/media/logo.svg": "/aerain/test-react-todo/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4f85db23.chunk.css.map": "/aerain/test-react-todo/static/css/main.4f85db23.chunk.css.map",
+  "index.html": "/aerain/test-react-todo/index.html",
+  "precache-manifest.6466819cf5169e5b46bcf64d689aae39.js": "/aerain/test-react-todo/precache-manifest.6466819cf5169e5b46bcf64d689aae39.js",
+  "service-worker.js": "/aerain/test-react-todo/service-worker.js"
 }
